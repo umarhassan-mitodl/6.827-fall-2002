@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "8ca83bc4-be55-5283-ce7f-58bba159056c",
+  "instructors": {
+    "content": [
+      "4801b894-3794-8e0f-0d72-ed21f6515f5c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dffee8a8-13b8-4411-9e25-3a942e7386ae",
+    "website": "6-827-multithreaded-parallelism-languages-and-compilers-fall-2002"
+  },
+  "course_title": "Multithreaded Parallelism: Languages and Compilers",
+  "hide_download": true,
+  "course_description": "The topics covered in this course include:\n\n*   Languages and compilers to exploit multithreaded parallelism\n*   Implicit parallel programming using functional languages and their extensions\n*   Higher-order functions, non-strictness, and polymorphism\n*   Explicit parallel programming and nondeterminism\n*   The lambda calculus and its variants\n*   Term rewriting and operational semantics\n*   Compiling multithreaded code for symmetric multiprocessors and clusters\n*   Static analysis and compiler optimizations\n\nThis course is worth 4 Engineering Design Points.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.827",
+  "course_image_thumbnail": {
+    "content": "df63af64-8c1d-412c-bedb-9793caf100f6",
+    "website": "6-827-multithreaded-parallelism-languages-and-compilers-fall-2002"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments"
+  ],
+  "site_uid": "0b88cffb-0920-49eb-a620-ff30543c609d",
+  "site_short_id": "6.827-fall-2002",
+  "site_url_path": "courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002",
+  "title": "Course Metadata"
+}
